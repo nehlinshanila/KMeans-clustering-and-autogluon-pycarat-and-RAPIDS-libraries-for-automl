@@ -23,6 +23,21 @@ The assignment is divided into six parts:
 
 ---
 
+# Video Demonstrations
+
+Each notebook is accompanied by a video walkthrough explaining the important code sections, outputs, techniques, and results.
+
+| Part | Topic | Video |
+|---|---|---|
+| 1 | K-Means Clustering | [Video](ADD_VIDEO_LINK_HERE) |
+| 2 | AutoGluon Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
+| 3 | AutoGluon End-to-End ML | [Video](ADD_VIDEO_LINK_HERE) |
+| 4 | NVIDIA RAPIDS CPU vs GPU | [Video](ADD_VIDEO_LINK_HERE) |
+| 5 | PyCaret Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
+| 6 | PyCaret MLOps | [Video](ADD_VIDEO_LINK_HERE) |
+
+---
+
 ## Repository Structure
 
 ```text
@@ -209,20 +224,6 @@ The following tools and libraries are used throughout this assignment:
 
 ---
 
-# Video Demonstrations
-
-Each notebook is accompanied by a video walkthrough explaining the important code sections, outputs, techniques, and results.
-
-| Part | Topic | Video |
-|---|---|---|
-| 1 | K-Means Clustering | [Video](ADD_VIDEO_LINK_HERE) |
-| 2 | AutoGluon Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
-| 3 | AutoGluon End-to-End ML | [Video](ADD_VIDEO_LINK_HERE) |
-| 4 | NVIDIA RAPIDS CPU vs GPU | [Video](ADD_VIDEO_LINK_HERE) |
-| 5 | PyCaret Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
-| 6 | PyCaret MLOps | [Video](ADD_VIDEO_LINK_HERE) |
-
----
 
 ## Author
 
