@@ -30,7 +30,7 @@ Each notebook is accompanied by a video walkthrough explaining the important cod
 | Part | Topic | Video |
 |---|---|---|
 | 1 | K-Means Clustering | https://youtu.be/1AobYdWUhmo 
-| 2 | AutoGluon Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
+| 2 | AutoGluon Capabilities | https://youtu.be/KLHJFuUq7Ao |
 | 3 | AutoGluon End-to-End ML | [Video](ADD_VIDEO_LINK_HERE) |
 | 4 | NVIDIA RAPIDS CPU vs GPU | [Video](ADD_VIDEO_LINK_HERE) |
 | 5 | PyCaret Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
@@ -79,13 +79,7 @@ Topics covered include:
 - Evaluation of clustering results
 - Variations of the K-Means algorithm
 
-### Notebook
 
-[View Part 1 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 1 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
@@ -102,13 +96,6 @@ The notebook demonstrates how AutoGluon can automate several stages of machine l
 - Model comparison
 - Prediction
 
-### Notebook
-
-[View Part 2 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 2 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
@@ -126,13 +113,7 @@ The workflow includes:
 - Generating predictions
 - Reviewing evaluation metrics
 
-### Notebook
 
-[View Part 3 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 3 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
@@ -150,13 +131,7 @@ The comparison focuses on:
 - Performance differences
 - Benefits of GPU acceleration for large-scale machine learning tasks
 
-### Notebook
 
-[View Part 4 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 4 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
@@ -174,13 +149,7 @@ The notebook demonstrates capabilities such as:
 - Model tuning
 - Prediction
 
-### Notebook
 
-[View Part 5 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 5 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
@@ -197,13 +166,7 @@ The notebook demonstrates concepts such as:
 - Generating predictions from saved models
 - Preparing models for deployment and production workflows
 
-### Notebook
 
-[View Part 6 Notebook](ADD_NOTEBOOK_LINK_HERE)
-
-### Video Walkthrough
-
-[Watch Part 6 Video](ADD_VIDEO_LINK_HERE)
 
 ---
 
