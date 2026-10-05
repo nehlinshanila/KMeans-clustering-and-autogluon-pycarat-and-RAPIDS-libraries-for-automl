@@ -33,7 +33,7 @@ Each notebook is accompanied by a video walkthrough explaining the important cod
 | 2 | AutoGluon Capabilities | https://youtu.be/KLHJFuUq7Ao |
 | 3 | AutoGluon End-to-End ML | https://youtu.be/YqhG0uOHAgg |
 | 4 | NVIDIA RAPIDS CPU vs GPU | https://youtu.be/JONjyV7EhtA |
-| 5 | PyCaret Capabilities | https://www.youtube.com/watch?v=KLHJFuUq7Ao |
+| 5 | PyCaret Capabilities | https://youtu.be/4lSfZao32Pw |
 | 6 | PyCaret MLOps | https://www.youtube.com/watch?v=1AobYdWUhmo |
 
 ---
