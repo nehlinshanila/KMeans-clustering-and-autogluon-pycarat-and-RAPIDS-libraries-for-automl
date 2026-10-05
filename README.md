@@ -32,7 +32,7 @@ Each notebook is accompanied by a video walkthrough explaining the important cod
 | 1 | K-Means Clustering | https://youtu.be/1AobYdWUhmo 
 | 2 | AutoGluon Capabilities | https://youtu.be/KLHJFuUq7Ao |
 | 3 | AutoGluon End-to-End ML | https://youtu.be/YqhG0uOHAgg |
-| 4 | NVIDIA RAPIDS CPU vs GPU | [Video](ADD_VIDEO_LINK_HERE) |
+| 4 | NVIDIA RAPIDS CPU vs GPU | https://youtu.be/JONjyV7EhtA |
 | 5 | PyCaret Capabilities | [Video](ADD_VIDEO_LINK_HERE) |
 | 6 | PyCaret MLOps | [Video](ADD_VIDEO_LINK_HERE) |
 
